@@ -20,17 +20,17 @@ nav {
   width: 100%;
 }
 
-nav ul {
+nav .inicio-ul {
   height: 40%;
 }
 
-nav ul li {
+nav .inicio-ul li {
   display: inline-block;
   line-height: 50px;
   margin: 0 5px;
 }
 
-nav ul li a {
+nav .inicio-ul li a {
   color: #fff;
   font-size: 18px;
   padding: 2px;
@@ -459,7 +459,6 @@ nav ul li a {
   text-align: left;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin: 20px;
-  padding: auto;
   color: #fff;
 }
 
@@ -1014,22 +1013,21 @@ nav ul li a {
     display: block;
   }
 
-  nav ul {
+  nav .inicio-ul {
     width: 35%;
-    height: 36%;
+    height: 39%;
     z-index: 1;
     display: flex;
     flex-direction: column;
   }
 
-  ul {
-    position: fixed;
+  .inicio-ul {
     background: #3d5a80;
     transition: all .3s;
     gap: 25px;
   }
 
-  nav ul li a {
+  nav .inicio-ul li a {
     font-size: 30px;
   }
   
@@ -1042,8 +1040,6 @@ nav ul li a {
 
   #check:checked~ul {
     left: 0;
-    height: 350px;
-    width: 30%;
     z-index: 1;
     cursor: pointer;
     display: none;
@@ -1359,7 +1355,6 @@ nav ul li a {
   }
   .novedad5 {
     width: 110%;
-    height: 50%;
     margin: 0 0 0 20px;
     margin-bottom: 20%;
   }
@@ -1442,20 +1437,20 @@ nav ul li a {
     display: block;
   }
 
-  nav ul {
+  nav .inicio-ul {
     width: 45%;
-    height: 39%;
+    height: 43%;
     z-index: 1;
     gap: 5px;
   }
 
-  ul {
+  .inicio-ul {
     position: fixed;
     background: #3d5a80;
     transition: all .3s;
   }
 
-  nav ul li a {
+  nav .inicio-ul li a {
     font-size: 18px;
   }
   li a:hover {
@@ -1467,8 +1462,6 @@ nav ul li a {
 
   #check:checked~ul {
     left: 0;
-    height: 350px;
-    width: 50%;
     cursor: pointer;
     display: none;
   }
@@ -1755,6 +1748,10 @@ nav ul li a {
     margin: 10px;
     text-align: center;
     color: #68a1fe;
+  }
+  .texto-minis {
+    text-align: left;
+    font-size: 10px;
   }
   .novedad5 img {
     margin: 10px 0 10px 20px;
