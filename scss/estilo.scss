@@ -1572,10 +1572,11 @@ nav {
 
 @media screen and (max-width: 480px) {
 	body {
+		background-image: url(../img/arco\ cancha.jpg);
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-attachment: fixed;
-		background-size: cover;
+		height: 100vh;
 	}
 
 	.caja1 h1 {
