@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url(../img/arco\ cancha.jpg);
+  background-image: url(../img/cancha2.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -1484,7 +1484,7 @@ nav .inicio-ul li a {
 
 @media screen and (max-width: 480px) {
   body {
-    background-image: url(../img/arco\ cancha.jpg);
+    background-image: url(../img/cancha2.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
