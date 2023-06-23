@@ -1088,7 +1088,7 @@ nav {
 }
 
 
-@media (max-width: 890px) {
+@media screen and (max-width: 890px) {
 	.caja1 h1 {
 		text-align: center;
 		padding: 0;
@@ -1563,7 +1563,7 @@ nav {
 	}
 }
 
-@media (max-width: 480px) {
+@media screen and (max-width: 480px) {
 	.caja1 h1 {
 		text-align: center;
 		padding: 0;
