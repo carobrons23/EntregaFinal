@@ -1008,12 +1008,6 @@ nav .inicio-ul li a {
 }
 
 @media screen and (max-width: 890px) {
-  body {
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    background-size: cover;
-  }
   .caja1 h1 {
     text-align: center;
     padding: 0;
@@ -1490,11 +1484,14 @@ nav .inicio-ul li a {
 
 @media screen and (max-width: 480px) {
   body {
+    background-image: url(../img/arco\ cancha.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
+    height: 100vh;
   }
+
   .caja1 h1 {
     text-align: center;
     padding: 0;
@@ -1718,8 +1715,8 @@ nav .inicio-ul li a {
   }
 
   .carrouselMio {
-    padding-right: 180px;
-    width: 170%;
+    padding-right: 100px;
+    width: 130%;
     height: 30%;
   }
 
