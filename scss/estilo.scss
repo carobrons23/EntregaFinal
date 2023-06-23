@@ -1272,7 +1272,7 @@ nav {
 		margin: 20px 0 0 15%;
 		display: flex;
 		align-items: center;
-		width: 70%;
+		width: 72vw;
 	}
 
 	.caja2 p {
@@ -1356,12 +1356,6 @@ nav {
 	.container-card {
 		display: flex;
 		flex-direction: column;
-	}
-
-	.carrouselMio {
-		padding-right: 400px;
-		width: 150%;
-		height: 30%;
 	}
 
 	.mapa__mitre {
@@ -1658,41 +1652,42 @@ nav {
 	}
 
 	.imgcentral {
-		width: 85%;
-		padding: 0 0 0 60px;
+		width: 100%;
+		padding: 0 20px 0 20px;
 		margin-bottom: 80px;
 	}
 
 	.cajasecundaria {
 		display: flex;
 		flex-direction: column;
-		height: 95%;
+		height: 130vh;
+		width: 100%;
 		background: rgba(18, 34, 39, 0.596);
 	}
 
 	.anuncio1 img {
-		width: 85%;
-		padding: 0 25px 0 25px;
+		width: 58vw;
+		padding: 0 35px 0 0;
 	}
 
 	.anuncio2 img {
-		width: 70%;
-		padding: 0 0 0 80px;
+		width: 58vw;
+		padding: 0 35px 0 0;
 	}
 
 	.anuncio3 img {
-		width: 85%;
-		padding: 0 25px 0 25px;
+		width: 58vw;
+		padding: 0 35px 0 0;
 	}
 
 	.anuncio4 img {
-		width: 85%;
-		padding: 0 25px 0 25px;
+		width: 58vw;
+		padding: 0 35px 0 0;
 	}
 
 	.anuncio5 img {
-		width: 85%;
-		padding: 0 25px 0 25px;
+		width: 58vw;
+		padding: 0 35px 0 0;
 	}
 
 	.cajaprincipalsecu {
@@ -1724,7 +1719,7 @@ nav {
 		margin: 20px 15px 0 15px;
 		display: flex;
 		align-items: center;
-		width: 90%;
+		width: 72vw;
 	}
 
 	.caja2 p {
@@ -1741,8 +1736,8 @@ nav {
 
 	.noticia-inicio {
 		margin-top: 20px;
-		width: 90%;
-		height: 50%;
+		width: 90vw;
+		height: 150vh;
 		background: rgba(0, 0, 0, 0.336);
 	}
 
@@ -1755,15 +1750,15 @@ nav {
 	}
 
 	.imgpollo {
-		width: 90%;
-		height: 90%;
+		width: 80vw;
+		height: 40vh;
 		margin: 20px 0 5px 20px;
 	}
 
 	.noticia-inicio2 {
 		margin-top: 20px;
-		width: 90%;
-		height: 50%;
+		width: 90vw;
+		height: 150vh;
 		background: rgba(0, 0, 0, 0.336);
 	}
 
@@ -1799,12 +1794,6 @@ nav {
 	.container-card {
 		display: flex;
 		flex-direction: column;
-	}
-
-	.carrouselMio {
-		padding-right: 100px;
-		width: 130%;
-		height: 30%;
 	}
 
 	.imgbox {

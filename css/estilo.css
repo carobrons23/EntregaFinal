@@ -1270,12 +1270,6 @@ nav .inicio-ul li a {
     flex-direction: column;
   }
 
-  .carrouselMio {
-    padding-right: 400px;
-    width: 150%;
-    height: 30%;
-  }
-
   .mapa__mitre {
     width: 80%;
     height: 570px;
@@ -1503,8 +1497,8 @@ nav .inicio-ul li a {
   }
 
   nav .inicio-ul {
-    width: 45%;
-    height: 43%;
+    width: 45vw;
+    height: 37vh;
     z-index: 1;
     gap: 5px;
   }
@@ -1570,54 +1564,45 @@ nav .inicio-ul li a {
   }
 
   .imgcentral {
-    width: 85%;
-    padding: 0 0 0 60px;
+    width: 100%;
+		padding: 0 20px 0 20px;
     margin-bottom: 80px;
   }
 
   .cajasecundaria {
     display: flex;
     flex-direction: column;
-    height: 95%;
+    height: 130vh;
     background: rgba(18, 34, 39, 0.596);
   }
 
   .anuncio1 img {
-    width: 85%;
-    padding: 0 25px 0 25px;
+    width: 58vw;
+    padding: 0 35px 0 0;
   }
 
   .anuncio2 img {
-    width: 70%;
-    padding: 0 0 0 80px;
+    width: 58vw;
+    padding: 0 35px 0 0;
   }
 
   .anuncio3 img {
-    width: 85%;
-    padding: 0 25px 0 25px;
+    width: 58vw;
+    padding: 0 35px 0 0;
   }
 
   .anuncio4 img {
-    width: 85%;
-    padding: 0 25px 0 25px;
+    width: 58vw;
+    padding: 0 35px 0 0;
   }
 
   .anuncio5 img {
-    width: 85%;
-    padding: 0 25px 0 25px;
-  }
-
-  .cajaprincipalsecu {
-    height: 10px;
+    width: 58vw;
+    padding: 0 35px 0 0;
   }
 
   .carousel-slide {
     width: 50%;
-  }
-
-  .caja2 {
-    margin: 290% 0 0 10%;
-    height: 30%;
   }
 
   .carousel__mio {
@@ -1636,7 +1621,7 @@ nav .inicio-ul li a {
     margin: 20px 15px 0 15px;
     display: flex;
     align-items: center;
-    width: 90%;
+    width: 72vw;
   }
 
   .caja2 p {
@@ -1653,8 +1638,8 @@ nav .inicio-ul li a {
 
   .noticia-inicio {
     margin-top: 20px;
-    width: 90%;
-    height: 50%;
+    width: 90vw;
+    height: 145vh;
     background: rgba(0, 0, 0, 0.336);
   }
 
@@ -1667,15 +1652,15 @@ nav .inicio-ul li a {
   }
 
   .imgpollo {
-    width: 90%;
-    height: 90%;
-    margin: 20px 0 5px 20px;
+    width: 80vw;
+    height: 40vh;
+    margin: 20px 0 5px 10px;
   }
 
   .noticia-inicio2 {
     margin-top: 20px;
-    width: 90%;
-    height: 50%;
+    width: 90vw;
+    height: 150vh;
     background: rgba(0, 0, 0, 0.336);
   }
 
@@ -1688,13 +1673,13 @@ nav .inicio-ul li a {
   }
 
   .imgpubli {
-    width: 90%;
-    height: 90%;
-    margin: 20px 0 5px 20px;
+    width: 80vw;
+    height: 40vh;
+    margin: 20px 0 5px 10px;
   }
 
   .container {
-    width: 150%;
+    width: 50%;
     height: 130%;
   }
 
@@ -1711,12 +1696,6 @@ nav .inicio-ul li a {
   .container-card {
     display: flex;
     flex-direction: column;
-  }
-
-  .carrouselMio {
-    padding-right: 100px;
-    width: 130%;
-    height: 30%;
   }
 
   .imgbox {
@@ -1772,14 +1751,14 @@ nav .inicio-ul li a {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 120%;
     padding: 10% 20% 0 0;
   }
 
   .imgropa {
     display: flex;
     justify-content: center;
-    width: 80%;
+    width: 145%;
+    margin: 0 0 0 65px;
   }
 
   .cajitanovedades-b strong {
