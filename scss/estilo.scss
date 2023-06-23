@@ -1089,6 +1089,13 @@ nav {
 
 
 @media screen and (max-width: 890px) {
+	body {
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+		background-size: cover;
+	}
+
 	.caja1 h1 {
 		text-align: center;
 		padding: 0;
@@ -1564,6 +1571,13 @@ nav {
 }
 
 @media screen and (max-width: 480px) {
+	body {
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+		background-size: cover;
+	}
+
 	.caja1 h1 {
 		text-align: center;
 		padding: 0;
@@ -1615,17 +1629,17 @@ nav {
 	}
 
 	.pie-pagina2 {
-		bottom: -670px;
+		bottom: -890px;
 		width: 100%;
 	}
 
 	.pie-pagina3 {
-		bottom: -4750px;
+		bottom: -5070px;
 		width: 100%;
 	}
 
 	.pie-pagina4 {
-		bottom: -480px;
+		bottom: -680px;
 		width: 100%;
 	}
 
@@ -1825,7 +1839,7 @@ nav {
 	.cajaubicacion {
 		margin: 0 15px 20px 0;
 		width: 300px;
-		height: 580px;
+		height: 650px;
 	}
 
 	.cajanovedades1 {
