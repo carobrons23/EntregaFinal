@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url(../img/cancha2.jpg);
+  background-image: url(../img/arco\ cancha.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -230,6 +230,11 @@ nav .inicio-ul li a {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   color: #fff;
+}
+
+.carrouselMio {
+  width: 85%;
+  margin: 0 0 0 60px;
 }
 
 /*novedades*/

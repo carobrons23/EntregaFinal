@@ -24,7 +24,7 @@ $bg-color_5: #7fadf1;
 }
 
 body {
-	background-image: url(../img/cancha2.jpg);
+	background-image: url(../img/arco\ cancha.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-attachment: fixed;
@@ -257,6 +257,11 @@ nav {
 	font-family: $font-family_2;
 	font-size: 20px;
 	color: $color_1;
+}
+
+.carrouselMio {
+	width: 85%;
+	margin: 0 0 0 60px;
 }
 
 .cajanovedades1 {
